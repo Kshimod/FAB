@@ -15,7 +15,7 @@ let start_FS = {// fullscreen
 };
 
 // prepare variables
-let prac_or_main;
+let prac_or_main="prac";
 let participantID;
 let exp_num;
 let i_or_d; // condition of the current experiment
